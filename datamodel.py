@@ -22,10 +22,10 @@ class Customer(Base):
 class Product(Base):
     pass
 
-class sell(Base):
+class Sell(Base):
     pass
 
-class employee(Base):
+class Employee(Base):
     pass
 
 
